@@ -30,4 +30,8 @@ User Library<br>
 Then, you just have to close and re-open Ableton, <br>
 Head to the Settings -> Midi -> [Bind your FlKey to the Control Surface](https://help.ableton.com/hc/en-us/articles/209774285-Using-Control-Surfaces).
 
+## *Usage*
+*See this tutorial for the base Control Surface*<br>
+https://www.youtube.com/watch?v=DJjB_mWpfak
+
 ### <i>If you need help or suggestions, open an issue</i>
