@@ -4,7 +4,7 @@
 [Control Surfaces](https://help.ableton.com/hc/en-us/articles/209774285-Using-Control-Surfaces) are scripts made by Ableton to open their users to control Ableton using their Midi devices.<br>
 It opens to some super neat integrations, such as the Ableton Push, or to Akai APC.
 
-## The FlKey is just a Launchkey MK3, can't I just used its Remove Script?
+## The FlKey is just a Launchkey MK3, can't I just use its Remove Script?
 The [FlKey](https://novationmusic.com/flkey) is a *0.9*:1 [Launchkey MK3](https://novationmusic.com/launchkey-mk3), with the main difference (appart from the color and buttons decals) being the firmware.<br>
 The FlKey have different IDs, making it not working by default with the Launchkey MK3 Control Surface.
 
